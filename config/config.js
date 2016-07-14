@@ -172,6 +172,7 @@ exports.inactiveuserthreshold = 1000 * 60 * 60;
 // displayed in the client.
 exports.customavatars = {
 	//'userid': 'customavatar.png'
+	'itsjavi501': '2002.gif'
 };
 
 // Tournament announcements
